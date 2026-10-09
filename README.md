@@ -1,4 +1,5 @@
-<p align=center><img width="256" height="256" src="Media/mascot.png"></p>
+<p align=center><img width="512" height="512" alt="SeekingTheSoulstones_Wago_512" src="https://github.com/user-attachments/assets/ac7afcee-39ab-47a1-a730-a68029ef8f77" />
+</p>
 
 # HandyNotes: Seeking the Soulstones
 
