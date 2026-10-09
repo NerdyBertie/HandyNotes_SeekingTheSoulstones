@@ -1,0 +1,14 @@
+## Interface: 120100
+## Title: HandyNotes: |cff8fff00Seeking the Soulstones|r
+## Notes: Map pins for the four soulstone fragments in the warlock green fire quest "Seeking the Soulstones".
+## Author: NerdyBertie
+## Version: @project-version@
+## Group: HandyNotes
+## IconTexture: Interface\AddOns\HandyNotes_SeekingTheSoulstones\Media\icon
+## Dependencies: HandyNotes
+## SavedVariables: HandyNotes_SeekingTheSoulstonesDB
+## X-Curse-Project-ID: 1734852
+## X-WoWI-ID: 27250
+## X-Wago-ID: aNerQ062
+
+Core.lua

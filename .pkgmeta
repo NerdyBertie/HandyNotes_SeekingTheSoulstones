@@ -1,0 +1,9 @@
+package-as: HandyNotes_SeekingTheSoulstones
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - README.md
+  - Media/mascot.png
