@@ -54,22 +54,22 @@ Found in the HandyNotes plugin settings:
 
 HandyNotes
 
-## More from NerdyBertie
-
-If this saved you some wandering around Outland, you might like these too:
-
-- **[HandyNotes: Dive Bar Front Crawl](https://www.curseforge.com/wow/addons/handynotes-dive-bar-front-crawl)** — map pins for every underwater Tortollan dive bar in the Dive Bar Front Crawl housing endeavor
-- **[ItemWatch & Shopping List](https://www.curseforge.com/wow/addons/itemwatch-bag-item-counter)** — track how many of an item you have toward a goal, with a recipe shopping list that counts your bags, bank and warband bank
-- **[Boomkin Buff Watcher](https://www.curseforge.com/wow/addons/boomkin-buff-watcher)** — keeps Balance Druids on top of their Astral Power and Eclipse state
-- **[Holiday Herald](https://www.curseforge.com/wow/addons/holidayherald)** — friendly reminders when in-game holidays start, with links to their meta-achievements, goodies, secrets, more!
-- **[Pinkies Up!](https://www.curseforge.com/wow/addons/pinkies-up)** — pops a funny "grats" toast every time you earn an achievement
-- **[Chum Chimes](https://www.curseforge.com/wow/addons/chumchimes)** — a friendly chime when guildies or friends are in your zone or right near you
-
-Find them all by searching **NerdyBertie** on CurseForge, WoWInterface or Wago.
-
 ## License
 
 MIT
+
+## More from NerdyBertie
+
+If you enjoy this addon, feel free to check out my other addons!
+
+- [Holiday Herald](https://www.curseforge.com/wow/addons/holidayherald): never miss a holiday again; tips, collectibles, quests, map pins, and secrets for every in-game holiday
+- [HandyNotes: Dive Bar Front Crawl](https://www.curseforge.com/wow/addons/handynotes-dive-bar-front-crawl): map pins for every underwater Tortollan dive bar in the Dive Bar Front Crawl housing endeavor
+- [ItemWatch & Shopping List](https://www.curseforge.com/wow/addons/itemwatch-bag-item-counter): track how many of an item you have toward a goal, with a recipe shopping list that counts your bags, bank and warband bank
+- [Boomkin Buff Watcher](https://www.curseforge.com/wow/addons/boomkin-buff-watcher): keeps Balance Druids on top of their Astral Power and Eclipse state
+- [Chum Chimes](https://www.curseforge.com/wow/addons/chumchimes): a friendly chime when guildies or friends are in your zone or nearby
+- [Pinkies Up!](https://www.curseforge.com/wow/addons/pinkies-up): achievement gratses for everyone, with 40-plus cute sayings
+
+Find them all by searching NerdyBertie on CurseForge, WoWInterface, WoWUp, or Wago.
 
 If you find this addon, or any of my other addons, useful, consider supporting me on
 [Ko-fi](https://ko-fi.com/nerdybertie) — totally optional, but always
