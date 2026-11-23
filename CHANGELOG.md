@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.2
+
+- Updated for patch 12.1.7
+
+## v1.0.1
+
+- Updated for patch 12.1.5
+
 ## v1.0.0
 
 - First release

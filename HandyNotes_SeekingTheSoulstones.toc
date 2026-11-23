@@ -1,4 +1,4 @@
-## Interface: 120100, 120105
+## Interface: 120100, 120105, 120107
 ## Title: HandyNotes: |cff8fff00Seeking the Soulstones|r
 ## Notes: Map pins for the four soulstone fragments in the warlock green fire quest "Seeking the Soulstones".
 ## Author: NerdyBertie
